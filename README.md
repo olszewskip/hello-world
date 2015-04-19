@@ -6,6 +6,6 @@ Blessed be pancakes
 
 I also like to sleep.
 
-li first list item 
-li second list item
+* first list item 
+* second list item
 * This is trully marvelous entertainment, my darling.
