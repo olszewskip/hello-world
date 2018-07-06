@@ -1,14 +1,20 @@
 # hello-world
 
-## This is a somewhat dumb README file
+## This is a README file
 
-Blessed be pancakes
---
-
-I also like to sleep.
--
+Why am I in bold?
+-- 
+Horizontal line above.
+**bold**
+*italic*
 
 * first list item 
-* second list item
-* This is trully marvelous entertainment, my darling.
-* fourth list item
+- second list item
+
+### Table
+Col_1 | Col_2 | Col_3 | Col_4
+--- | --- | --- | ---
+Hello | Salut | Sunt | Haiduc
+
+### Link
+[Troll me!](https://www.youtube.com/watch?v=NTmk0Pqk6hs)
