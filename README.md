@@ -1,6 +1,6 @@
 # hello-world
 
-## This is a README file
+## This is a README file.<sup>[1](#footnote1)</sup>
 
 Why am I in bold?
 -- 
@@ -18,3 +18,5 @@ Hello | Salut | Sunt | Haiduc
 
 ### Link
 [Troll me!](https://www.youtube.com/watch?v=NTmk0Pqk6hs)
+
+<a name="footnote1">1</a>: It really is!
